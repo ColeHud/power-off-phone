@@ -8,7 +8,7 @@ client = Twilio::REST::Client.new account_sid, auth_token
 from = "+12316741016" # Your Twilio number
 
 friends = {
-"+12314140348" => "Cole"
+"+phone number to shut off" => "Friend"
 }
 
 while true
